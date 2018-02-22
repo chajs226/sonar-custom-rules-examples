@@ -1,3 +1,14 @@
+
+
+1. 소나 커스텀룰 프로젝트 다운받음. (https://github.com/SonarSource/sonar-custom-rules-examples)
+
+2. sonarqube-5.6.7 다운로드 및 설치 (https://docs.sonarqube.org/display/SONAR/Get+Started+in+Two+Minutes)
+
+3. Mysql 설치 및 설정 (https://gist.github.com/rasheedamir/11460beef67bc6b58d61)
+
+
+
+========================================================================================================
 Sonar Custom Rules Examples [![Build Status](https://travis-ci.org/SonarSource/sonar-custom-rules-examples.svg?branch=master)](https://travis-ci.org/SonarSource/sonar-custom-rules-examples)
 ==========
 
