@@ -6,6 +6,9 @@
 
 3. Mysql 설치 및 설정 (https://gist.github.com/rasheedamir/11460beef67bc6b58d61)
 
+<Jenkins - Maven 빌드 설정>
+구성 - JDK1.8, Maven3.0.5, Jekins2.89.4
+(Jenkins의 Maven plugin 은 Maven 자체를 설치하는게 아니기 때문에, Maven bin은 별도로 설치를 해야함)
 
 
 ========================================================================================================
